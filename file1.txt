@@ -1,1 +1,2 @@
 this is the txt file
+now I change the content of this file
